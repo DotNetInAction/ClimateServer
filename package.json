@@ -9,7 +9,7 @@
   "author": "Nerijus",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "influx": "^5.4.2",
     "sqlite3": "^4.1.0"
   }
